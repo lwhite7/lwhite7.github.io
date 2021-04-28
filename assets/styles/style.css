@@ -30,7 +30,7 @@
     height: 50vh;
     background: white;
     color: white;
-    transform: translateY(-100%);
+    transform: translateY(-200%);
     transition: transform 0.2s;
     list-style: none;
     padding-top: 4rem;
